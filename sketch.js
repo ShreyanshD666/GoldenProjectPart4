@@ -182,7 +182,7 @@ function draw() {
     health.changeAnimation("healthBarImg7", healthBar7);
   }*/
 
-  if(timer === 10){
+  if(timer === 60){
     gameState = "gameWon"
   }
 
